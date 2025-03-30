@@ -87,9 +87,10 @@ def launch_app_with_check(app_name):
           return
   print(f"Could not find application: {app_name}")
 
-#Example usage with the app name.
-#launch_app_with_check("MyApp")
+# Example usage with the app name.
+### launch_app_with_check("MyApp") {if u get it}
 
-#Choose one of the examples above and replace the placeholder app paths.
+# Choose one of the examples above and replace the placeholder app paths.
 #If the application is not launched, double check the app path.
 
+Enjoy ^^
